@@ -1,1 +1,7 @@
-[{"id":"aacd88e2-e09e-4ada-b9ed-f2c3fde211b5","name":"Caneta preta","price":1}]
+[
+  {
+    "id": "aacd88e2-e09e-4ada-b9ed-f2c3fde211b5",
+    "name": "Caneta preta",
+    "price": 1
+  }
+]
